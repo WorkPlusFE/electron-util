@@ -1,10 +1,9 @@
 {
 	"name": "@w6s/electron-util",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "Useful utilities for Electron apps and modules",
 	"license": "MIT",
-	"repository": "sindresorhus/electron-util",
-	"funding": "https://github.com/sponsors/sindresorhus",
+	"repository": "https://github.com/WorkPlusFE/electron-util",
 	"publishConfig": {
 		"access": "public"
 	},
