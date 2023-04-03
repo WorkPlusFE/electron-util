@@ -1,6 +1,6 @@
 {
 	"name": "@w6s/electron-util",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"description": "Useful utilities for Electron apps and modules",
 	"license": "MIT",
 	"repository": "https://github.com/WorkPlusFE/electron-util",
@@ -33,7 +33,6 @@
 		"useful"
 	],
 	"dependencies": {
-		"electron-is-dev": "^2.0.0",
 		"new-github-issue-url": "^0.2.1"
 	},
 	"devDependencies": {
