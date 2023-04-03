@@ -1,4 +1,9 @@
-# electron-util
+# electron-is
+
+**Fork of sindresorhus/electron-util[https://github.com/sindresorhus/electron-util]**
+
+**临时过渡模块，不要使用，不要使用，不要使用！**
+
 
 > Useful utilities for Electron apps and modules
 
