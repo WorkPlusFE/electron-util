@@ -1,5 +1,5 @@
 {
-	"name": "@w6s/electron-is",
+	"name": "@w6s/electron-util",
 	"version": "1.0.0",
 	"description": "Useful utilities for Electron apps and modules",
 	"license": "MIT",
